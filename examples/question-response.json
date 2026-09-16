@@ -1,0 +1,17 @@
+{
+  "id": "ce759349-5472-42a0-8b93-53b0f38d5e6a",
+  "document_id": "5e5cbdc4-ad9d-4fab-889f-7710e7c67ab2",
+  "question": "Qual o prazo de resposta para incidentes criticos?",
+  "answer": "Critical incidents receive an initial response within 30 minutos.",
+  "sources": [
+    {
+      "id": 1,
+      "document_id": "5e5cbdc4-ad9d-4fab-889f-7710e7c67ab2",
+      "page": 1,
+      "text": "Atlas Operations Handbook Fictional demonstration data / Revision 1.0 Support response times Critical incidents receive an initial response within 30 minutes. Standard requests receive an initial response within 8 business hours. Support hours are Monday to Friday, 09:00 to 18:00 Brasilia time. Escalation policy An incident affecting all users is classified as critical. The operations coordinator assigns an incident owner and records an update every 60 minutes until service recovery. Data retention Operational execution logs are retained for 90 days. Customer uploads are deleted after 30 days. Access is restricted to the assigned operations team. Change management Production changes require peer review, a rollback plan and approval by the service owner. Scheduled deployments take place on Tuesdays at 20:00 Brasilia time. Billing Invoices are issued on the first business day of each month",
+      "score": 0.5888942180117711
+    }
+  ],
+  "model": "llama3.2:3b",
+  "created_at": "2026-09-16T12:08:13.891129+00:00"
+}
