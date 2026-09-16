@@ -3,5 +3,6 @@
 .env
 data
 artifacts
+*.log
 __pycache__
 .pytest_cache
