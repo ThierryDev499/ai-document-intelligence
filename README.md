@@ -2,9 +2,9 @@
 
 A local-first document workspace: ingest PDFs, inspect extracted text, generate summaries and ask questions with traceable source excerpts. Built by [Thierry Azevedo](https://github.com/ThierryDev499).
 
-![Document workspace with a real local-model answer](docs/workspace.png)
+![Document workspace with a real local-model answer](docs/workspace.jpg)
 
-[Mobile screenshot](docs/mobile.png)
+[Mobile screenshot](docs/mobile.jpg)
 
 ## Problem
 
